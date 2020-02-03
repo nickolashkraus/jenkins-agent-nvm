@@ -31,4 +31,4 @@ RUN export NVM_DIR="$HOME/.nvm" && ( \
 # update /home/jenkins/.profile
 RUN command printf '# set nvm source directory and load nvm\n' >> $HOME/.profile
 RUN command printf 'export NVM_DIR="$HOME/.nvm"\n' >> $HOME/.profile
-RUN command printf '[ -s "$NVM_DIR/nvm.sh"  ] && \. "$NVM_DIR/nvm.sh"\n' >> $HOME/.profile
+RUN command printf '[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"\n' >> $HOME/.profile
