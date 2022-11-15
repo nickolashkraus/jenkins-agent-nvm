@@ -1,8 +1,8 @@
 # Jenkins Agent NVM
 
 [![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/nickolashkraus/jenkins-agent-nvm?color=blue)](https://cloud.docker.com/u/nickolashkraus/repository/docker/nickolashkraus/jenkins-agent-nvm)
-[![Releases](https://img.shields.io/github/v/release/NickolasHKraus/jenkins-agent-nvm?color=blue)](https://github.com/NickolasHKraus/jenkins-agent-nvm/releases)
-[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/NickolasHKraus/jenkins-agent-nvm/blob/master/LICENSE)
+[![Releases](https://img.shields.io/github/v/release/nickolashkraus/jenkins-agent-nvm?color=blue)](https://github.com/nickolashkraus/jenkins-agent-nvm/releases)
+[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/nickolashkraus/jenkins-agent-nvm/blob/master/LICENSE)
 
 [Docker Hub](https://cloud.docker.com/u/nickolashkraus/repository/docker/nickolashkraus/jenkins-agent-nvm)
 
