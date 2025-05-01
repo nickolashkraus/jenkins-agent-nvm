@@ -1,11 +1,5 @@
 # Jenkins Agent NVM
 
-[![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/nickolashkraus/jenkins-agent-nvm?color=blue)](https://cloud.docker.com/u/nickolashkraus/repository/docker/nickolashkraus/jenkins-agent-nvm)
-[![Releases](https://img.shields.io/github/v/release/nickolashkraus/jenkins-agent-nvm?color=blue)](https://github.com/nickolashkraus/jenkins-agent-nvm/releases)
-[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/nickolashkraus/jenkins-agent-nvm/blob/master/LICENSE)
-
-[Docker Hub](https://cloud.docker.com/u/nickolashkraus/repository/docker/nickolashkraus/jenkins-agent-nvm)
-
 Jenkins Agent NVM contains the [Jenkins Remoting](https://jenkins.io/projects/remoting/) library and [Node Version Manager](https://github.com/nvm-sh/nvm) (NVM). It can be used with [Amazon EC2 Container Service Plugin](https://wiki.jenkins.io/display/JENKINS/Amazon+EC2+Container+Service+Plugin) to build Docker images from a container running on an Amazon ECS cluster.
 
 ## What's in the image?
